@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiragmantri
-- 👀 I’m interested in Design architechtures, distributed systems, Android, iOs and all about tech.
+- 👀 I’m interested in Design architechtures, distributed systems, Android, iOs systems.
 - 🌱 I’m currently learning everything which is between 0 and 1
 
 <!---
