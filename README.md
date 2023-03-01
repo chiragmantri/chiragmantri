@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @chiragmantri
-- 👀 I’m interested in Design architechtures, distributed systems, Android, iOs systems.
-- 🌱 I’m currently learning everything which is between 0 and 1
+- 👋 Hi, Still deciding what to write here.
 
 <!---
 chiragmantri/chiragmantri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
